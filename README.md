@@ -3,7 +3,7 @@
 This project analyzes and forecasts Apple's (AAPL) stock price using statistical
 and deep learning models.
 
-The project compares ARIMA, LSTM, and GRU models for stock price forecasting
+The project compares ARIMA, ARIMAX, LSTM, and GRU models for stock price forecasting
 and evaluates their performance using standard error metrics.
 
 ## Features
